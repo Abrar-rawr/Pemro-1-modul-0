@@ -1,10 +1,8 @@
 #include <stdio.h>
 int main()
 {
-    char *red = "\033[1;31m";
-    char *reset = "\033[0m";
-    printf("Selamat Pagi, %sNama Anda%s\n\n", red, reset);
-    printf("Selamat Siang, %sNama Anda%s\n\n", red, reset);
-    printf("Selamat Malam, %sNama Anda%s\n\n", red, reset);
+    printf("Selamat Pagi, Nama Anda\n);
+    printf("Selamat Siang, Nama Anda\n);
+    printf("Selamat Malam, Nama Anda\n);
     return 0;
 }
