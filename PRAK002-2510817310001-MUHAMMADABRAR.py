@@ -1,3 +1,3 @@
-print("Selamat Pagi, Nama Anda")
-print("Selamat Siang, Nama Anda")
-print("Selamat Malam, Nama Anda")
+print("Selamat Pagi, Muhammad Abrar")
+print("Selamat Siang, Muhammad Abrar")
+print("Selamat Malam, Muhammad Abrar")
