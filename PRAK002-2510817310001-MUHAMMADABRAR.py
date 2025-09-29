@@ -1,5 +1,3 @@
-red = "\033[1;31m"
-reset = "\033[0m"
-print(f"Selamat Pagi, {red}Nama Anda{reset}\n")
-print(f"Selamat Siang, {red}Nama Anda{reset}\n")
-print(f"Selamat Malam, {red}Nama Anda{reset}\n")
+print("Selamat Pagi, Nama Anda")
+print("Selamat Siang, Nama Anda")
+print("Selamat Malam, Nama Anda")
