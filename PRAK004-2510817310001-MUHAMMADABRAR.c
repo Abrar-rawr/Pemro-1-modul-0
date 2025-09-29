@@ -1,13 +1,12 @@
 #include <stdio.h>
+#include <stdlib.h>
 int main()
 {
-    char *red = "\033[1;31m";
-    char *reset = "\033[0m";
-    printf("##############################\n\n");
-    printf("#                            #\n\n");
-    printf("#         %sNama Anda%s          #\n\n", red, reset);
-    printf("#            %sNIM%s             #\n\n", red, reset);
-    printf("#                            #\n\n");
-    printf("##############################\n\n");
+    printf("##############################\n");
+    printf("#                            #\n");
+    printf("#       Muhammad Abrar       #\n");
+    printf("#       2510817310001        #\n");
+    printf("#                            #\n");
+    printf("##############################\n");
     return 0;
 }
